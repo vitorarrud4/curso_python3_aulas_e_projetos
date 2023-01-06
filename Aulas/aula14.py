@@ -1,6 +1,9 @@
-a = 'A'
-b = 'B'
+# Formatação de strings com o método format
+
+a = 'Vitor'
+b = 'Arruda'
 c = 1.1
-formato = ''
+string = 'a={} b={} c={:.2f}'
+formato = string.format(a,b,c)
 
 print(formato)
