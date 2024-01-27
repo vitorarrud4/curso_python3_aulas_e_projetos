@@ -1,6 +1,6 @@
 nome = 'Vitor Arruda'
 altura = 1.82
-peso = 69
+peso = 75
 imc = peso / altura ** 2 # imc = peso / (altura * altura )
 
 # '...' tres pontinhos/reticencias/ellipsis e usado
@@ -8,9 +8,9 @@ imc = peso / altura ** 2 # imc = peso / (altura * altura )
 # mas que nao retorna erros.
 print(...)
 print(nome, 'tem', altura, 'de altura, pesa', peso,
-    'quilos e seu IMC e de', imc)
+    'kg e seu IMC e de', imc)
 
 
 # Vitor Arruda tem 1.82 de altura,
-# pesa 69 quilos e seu IMC e de 
+# pesa 75 quilos e seu IMC e de 
 # 20.83

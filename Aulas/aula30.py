@@ -4,8 +4,8 @@ Muitas condicoes no mesmo if (ruim)
     <- Contagem de complexidade (ruim)
 '''
 
-velocidade = 70    # velocidade atual do carro
-local_carro = 90   # local em que o carro esta na estrada
+velocidade = 85    # velocidade atual do carro
+local_carro = 99   # local em que o carro esta na estrada
 
 RADAR_1 = 60    # Velocidade maxima do RADAR 1
 LOCAL_1 = 100   # Local onde o RADAR 1 esta

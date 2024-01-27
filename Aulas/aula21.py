@@ -14,16 +14,16 @@ usado para representar um nao valor
 '''
 
 
-'''entrada = input('[E]ntrar [S]air: ')
+entrada = input('[E]ntrar [S]air: ')
 senha_digitada = input('Senha: ')
 
-
 senha_permitida = '123'
-if entrada == 'E' and senha_digitada == senha_permitida:
+if entrada == 'e' and senha_digitada == senha_permitida:
     print('Entrou')
 else:
-    print('Saiu')'''
+    print('Erro de login')
 
-# Avaliacao de curto circuito:
+"""# Avaliacao de curto circuito:
 print(True and False and True)
 print(bool(''))
+"""

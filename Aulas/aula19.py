@@ -16,4 +16,4 @@ menor_ou_igual = 2 <= 2
 igual = 'a' == 'a'
 diferente = 'a' != 'b'
 
-print(diferente)
+print( '\n', maior, '\n', maior_ou_igual, '\n', menor, '\n', menor_ou_igual, '\n', igual, '\n', diferente)

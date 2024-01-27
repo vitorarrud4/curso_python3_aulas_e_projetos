@@ -7,3 +7,4 @@ if valor1 > valor2:
     print(f'O {valor1=} e maior que o {valor2=}')
 elif valor2 > valor1:
     print(f'O {valor2=} e maior que o {valor1=}')
+else: print(f'o {valor1=} e igual ao {valor2=}')

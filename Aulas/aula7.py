@@ -6,7 +6,8 @@
 # Uso: nome_variavel = expressão
 
 nome = 'Vitor'
-idade = 24
+idade = 25
 maior_de_idade = idade >= 18
 
-print('Nome:', nome, 'idade:',idade)
+print('Nome:', nome, '\nidade:',idade)
+print(maior_de_idade) #variavel booleana
